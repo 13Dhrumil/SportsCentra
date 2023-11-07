@@ -1,0 +1,57 @@
+.bg
+{
+      background-color:deepskyblue;
+}
+
+.img
+{
+    width: 200px;
+    height: 2500px;
+    margin-left: 20px;
+    padding-bottom: 110PX;
+}
+
+.home
+{
+    text-decoration: none;
+    margin-left: 200px;
+    font-family: 'Times New Roman';
+}
+
+.dropdown
+{
+    text-decoration: none;
+    margin-left: 10px;
+    font-family: 'Times New Roman';
+}
+
+.combo
+{
+    text-decoration: none;
+    margin-left: 20px;
+    font-family: 'Times New Roman';
+}
+
+.contact
+{
+    text-decoration: none;
+    margin-left: 20px;
+    font-family: 'Times New Roman';
+}
+
+.logout
+{
+    text-decoration: none;
+    margin-left: 25px;
+    font-family: 'Times New Roman';
+}
+
+.search_icon
+{
+    margin-left: 400px; 
+}
+
+.wishlist_icon
+{
+    margin-left: 20px; 
+}

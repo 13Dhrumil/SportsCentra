@@ -1,0 +1,29 @@
+.boder
+{
+    margin-top:100px;
+    margin-left: 510px;
+    padding: 50px;
+    border-radius: 20px;
+    width: 500px;
+    box-shadow: 10px 20px 30px;
+    background-color:whitesmoke;
+}
+
+.h1
+{
+    margin-left:5px;
+    font-family: 'Times New Roman';
+    font-weight: bold;
+}
+
+.all_css
+{
+    font-weight: bold;
+    font-size: 18px;
+    font-family: 'Times New Roman';
+}
+
+.text_box
+{
+    border-radius: 8px;
+}
